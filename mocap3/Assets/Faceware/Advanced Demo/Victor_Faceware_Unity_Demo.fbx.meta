@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 7b74a4740a58f284f84255af0259e949
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: def:adamsApple
+    100002: def:chin
+    100004: def:head
+    100006: def:jaw
+    100008: def:jawSDK
+    100010: def:l_brow_A
+    100012: def:l_brow_B
+    100014: def:l_brow_C
+    100016: def:l_cheek
+    100018: def:l_ear
+    100020: def:l_eye
+    100022: def:l_innerCheek
+    100024: def:l_lipCorner
+    100026: def:l_lipCorner_b
+    100028: def:l_lipCorner_t
+    100030: def:l_lowerEyeLid
+    100032: def:l_lowerLip
+    100034: def:l_lowerLip_b
+    100036: def:l_lowerLip_f
+    100038: def:l_nasalLabialFold
+    100040: def:l_nostril
+    100042: def:l_temple
+    100044: def:l_UpperCheek
+    100046: def:l_upperEyeLid
+    100048: def:l_upperLip
+    100050: def:l_upperLip_b
+    100052: def:l_upperLip_f
+    100054: def:lowerLip
+    100056: def:lowerLip_b
+    100058: def:lowerLip_f
+    100060: def:midBrows
+    100062: def:neck_1
+    100064: def:noseMain
+    100066: def:r_brow_A
+    100068: def:r_brow_B
+    100070: def:r_brow_C
+    100072: def:r_cheek
+    100074: def:r_ear
+    100076: def:r_eye
+    100078: def:r_innerCheek
+    100080: def:r_lipCorner
+    100082: def:r_lipCorner_b
+    100084: def:r_lipCorner_t
+    100086: def:r_lowerEyeLid
+    100088: def:r_lowerLip
+    100090: def:r_lowerLip_b
+    100092: def:r_lowerLip_f
+    100094: def:r_nasalLabialFold
+    100096: def:r_nostril
+    100098: def:r_temple
+    100100: def:r_UpperCheek
+    100102: def:r_upperEyeLid
+    100104: def:r_upperLip
+    100106: def:r_upperLip_b
+    100108: def:r_upperLip_f
+    100110: def:skull
+    100112: def:sternumRoot
+    100114: def:tongue_1
+    100116: def:tongue_2
+    100118: def:tongue_3
+    100120: def:underChin
+    100122: def:upperLip
+    100124: def:upperLip_b
+    100126: def:upperLip_f
+    100128: Victor_Blendshapes
+    100130: //RootNode
+    100132: Victor_headGEO
+    100134: Victor_Joints
+    400000: def:adamsApple
+    400002: def:chin
+    400004: def:head
+    400006: def:jaw
+    400008: def:jawSDK
+    400010: def:l_brow_A
+    400012: def:l_brow_B
+    400014: def:l_brow_C
+    400016: def:l_cheek
+    400018: def:l_ear
+    400020: def:l_eye
+    400022: def:l_innerCheek
+    400024: def:l_lipCorner
+    400026: def:l_lipCorner_b
+    400028: def:l_lipCorner_t
+    400030: def:l_lowerEyeLid
+    400032: def:l_lowerLip
+    400034: def:l_lowerLip_b
+    400036: def:l_lowerLip_f
+    400038: def:l_nasalLabialFold
+    400040: def:l_nostril
+    400042: def:l_temple
+    400044: def:l_UpperCheek
+    400046: def:l_upperEyeLid
+    400048: def:l_upperLip
+    400050: def:l_upperLip_b
+    400052: def:l_upperLip_f
+    400054: def:lowerLip
+    400056: def:lowerLip_b
+    400058: def:lowerLip_f
+    400060: def:midBrows
+    400062: def:neck_1
+    400064: def:noseMain
+    400066: def:r_brow_A
+    400068: def:r_brow_B
+    400070: def:r_brow_C
+    400072: def:r_cheek
+    400074: def:r_ear
+    400076: def:r_eye
+    400078: def:r_innerCheek
+    400080: def:r_lipCorner
+    400082: def:r_lipCorner_b
+    400084: def:r_lipCorner_t
+    400086: def:r_lowerEyeLid
+    400088: def:r_lowerLip
+    400090: def:r_lowerLip_b
+    400092: def:r_lowerLip_f
+    400094: def:r_nasalLabialFold
+    400096: def:r_nostril
+    400098: def:r_temple
+    400100: def:r_UpperCheek
+    400102: def:r_upperEyeLid
+    400104: def:r_upperLip
+    400106: def:r_upperLip_b
+    400108: def:r_upperLip_f
+    400110: def:skull
+    400112: def:sternumRoot
+    400114: def:tongue_1
+    400116: def:tongue_2
+    400118: def:tongue_3
+    400120: def:underChin
+    400122: def:upperLip
+    400124: def:upperLip_b
+    400126: def:upperLip_f
+    400128: Victor_Blendshapes
+    400130: //RootNode
+    400132: Victor_headGEO
+    400134: Victor_Joints
+    4300000: Victor_headGEO
+    9500000: //RootNode
+    13700000: Victor_headGEO
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

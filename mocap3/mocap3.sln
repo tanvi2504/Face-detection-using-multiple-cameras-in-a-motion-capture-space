@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mocap3", "mocap3.csproj", "{1559BFEB-F1E4-9251-0CB5-57875235060B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mocap3.Editor", "mocap3.Editor.csproj", "{0CE8E930-5D66-5D23-728F-CF4BB0937376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1559BFEB-F1E4-9251-0CB5-57875235060B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1559BFEB-F1E4-9251-0CB5-57875235060B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1559BFEB-F1E4-9251-0CB5-57875235060B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1559BFEB-F1E4-9251-0CB5-57875235060B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE8E930-5D66-5D23-728F-CF4BB0937376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE8E930-5D66-5D23-728F-CF4BB0937376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE8E930-5D66-5D23-728F-CF4BB0937376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE8E930-5D66-5D23-728F-CF4BB0937376}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
